@@ -3,6 +3,7 @@ import logging
 from exchanges.Exchange import Exchange
 from exchanges.BinanceExchange import BinanceExchange
 from exchanges.HuobiExchange import HuobiExchange
+from exchanges.MexcExchange import MexcExchange
 
 class ArbitrageBot:
     def __init__(self, exchanges):
@@ -10,9 +11,11 @@ class ArbitrageBot:
         self.MIN_PROFIT_PERCENTAGE = 0.0
         self.QUANTITY_TO_TRADE = {
             'Binance_BTC': 0.5,
-            'Binance_USDT': 15000.0,
-            'Huobi_BTC': 0.5,
-            'Huobi_USDT': 1500.0
+            'Binance_BUSD': 15000.0,
+            #'Huobi_BTC': 0.5,
+            #'Huobi_USDT': 1500.0
+            'Mexc_BTC': 0.5,
+            'Mexc_BUSD': 15000.0
         }
 
         # Initialize logging
@@ -46,21 +49,21 @@ class ArbitrageBot:
 
     def execute_arbitrage(self, source_exchange, target_exchange, source_ask_price, target_bid_price):
         possible_buy = min(
-            self.QUANTITY_TO_TRADE[f'{source_exchange.name}_USDT'] / source_ask_price,
+            self.QUANTITY_TO_TRADE[f'{source_exchange.name}_BUSD'] / source_ask_price,
             self.QUANTITY_TO_TRADE[f'{target_exchange.name}_BTC']
         )
         profit = self.calculate_profit(source_ask_price, target_bid_price, possible_buy)
 
-        if profit > self.MIN_PROFIT_PERCENTAGE * self.QUANTITY_TO_TRADE[f'{source_exchange.name}_USDT']:
+        if profit > self.MIN_PROFIT_PERCENTAGE * self.QUANTITY_TO_TRADE[f'{source_exchange.name}_BUSD']:
             source_currency = f'{source_exchange.name}_BTC'
             target_currency = f'{target_exchange.name}_BTC'
             self.QUANTITY_TO_TRADE[source_currency] += possible_buy
             self.QUANTITY_TO_TRADE[target_currency] -= possible_buy
-            self.QUANTITY_TO_TRADE[f'{target_exchange.name}_USDT'] += possible_buy * target_bid_price
-            self.QUANTITY_TO_TRADE[f'{source_exchange.name}_USDT'] -= possible_buy * source_ask_price
+            self.QUANTITY_TO_TRADE[f'{target_exchange.name}_BUSD'] += possible_buy * target_bid_price
+            self.QUANTITY_TO_TRADE[f'{source_exchange.name}_BUSD'] -= possible_buy * source_ask_price
 
-            self.log_info(f"Kupiono {possible_buy:.5f} BTC na giełdzie {source_exchange.name} po cenie {source_ask_price:.5f} USDT \n"
-                          f"Sprzedano {possible_buy:.5f} BTC na giełdzie {target_exchange.name} po cenie {target_bid_price:.5f} USDT \n"
-                          f"Zysk: {profit:.5f} USDT\n"
-                          f"Stan konta na giełdzie {source_exchange.name}: {self.QUANTITY_TO_TRADE[f'{source_exchange.name}_USDT']:.5f} USDT oraz {self.QUANTITY_TO_TRADE[source_currency]:.5f} BTC \n"
-                          f"Stan konta na giełdzie {target_exchange.name}: {self.QUANTITY_TO_TRADE[f'{target_exchange.name}_USDT']:.5f} USDT oraz {self.QUANTITY_TO_TRADE[target_currency]:.5f} BTC\n\n")
+            self.log_info(f"Kupiono {possible_buy:.5f} BTC na giełdzie {source_exchange.name} po cenie {source_ask_price:.5f} BUSD \n"
+                          f"Sprzedano {possible_buy:.5f} BTC na giełdzie {target_exchange.name} po cenie {target_bid_price:.5f} BUSD \n"
+                          f"Zysk: {profit:.5f} BUSD\n"
+                          f"Stan konta na giełdzie {source_exchange.name}: {self.QUANTITY_TO_TRADE[f'{source_exchange.name}_BUSD']:.5f} USDT oraz {self.QUANTITY_TO_TRADE[source_currency]:.5f} BTC \n"
+                          f"Stan konta na giełdzie {target_exchange.name}: {self.QUANTITY_TO_TRADE[f'{target_exchange.name}_BUSD']:.5f} USDT oraz {self.QUANTITY_TO_TRADE[target_currency]:.5f} BTC\n\n")
