@@ -1,7 +1,4 @@
 import requests
-import time
-import logging
-
 
 class Exchange:
     def __init__(self, name, api_url):

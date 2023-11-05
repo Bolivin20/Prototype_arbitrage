@@ -1,0 +1,420 @@
+2023-11-01 18:44:17,751 - INFO: Kupiono 0.43455 BTC na giełdzie Mexc po cenie 34518.77000 USDT 
+Sprzedano 0.43455 BTC na giełdzie Binance po cenie 34521.03000 USDT 
+Zysk: 0.98207 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93455 BTC 
+Stan konta na giełdzie Binance: 30000.98207 USDT oraz 0.06545 BTC
+
+
+2023-11-01 18:57:03,136 - INFO: Kupiono 0.87131 BTC na giełdzie Binance po cenie 34432.18000 USDT 
+Sprzedano 0.87131 BTC na giełdzie Mexc po cenie 34448.61000 USDT 
+Zysk: 14.31557 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93676 BTC 
+Stan konta na giełdzie Mexc: 30015.29764 USDT oraz 0.06324 BTC
+
+
+2023-11-01 18:57:32,787 - INFO: Kupiono 0.87094 BTC na giełdzie Mexc po cenie 34463.09000 USDT 
+Sprzedano 0.87094 BTC na giełdzie Binance po cenie 34465.90000 USDT 
+Zysk: 2.44734 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93418 BTC 
+Stan konta na giełdzie Binance: 30017.74498 USDT oraz 0.06582 BTC
+
+
+2023-11-01 19:02:19,190 - INFO: Kupiono 0.87094 BTC na giełdzie Binance po cenie 34465.81000 USDT 
+Sprzedano 0.87094 BTC na giełdzie Mexc po cenie 34467.26000 USDT 
+Zysk: 1.26287 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93676 BTC 
+Stan konta na giełdzie Mexc: 30019.00785 USDT oraz 0.06324 BTC
+
+
+2023-11-01 19:02:38,734 - INFO: Kupiono 0.87107 BTC na giełdzie Mexc po cenie 34462.11000 USDT 
+Sprzedano 0.87107 BTC na giełdzie Binance po cenie 34464.24000 USDT 
+Zysk: 1.85539 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93431 BTC 
+Stan konta na giełdzie Binance: 30020.86323 USDT oraz 0.06569 BTC
+
+
+2023-11-01 19:36:28,974 - INFO: Kupiono 0.86606 BTC na giełdzie Binance po cenie 34663.53000 USDT 
+Sprzedano 0.86606 BTC na giełdzie Mexc po cenie 34671.11000 USDT 
+Zysk: 6.56477 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93175 BTC 
+Stan konta na giełdzie Mexc: 30027.42801 USDT oraz 0.06825 BTC
+
+
+2023-11-01 19:37:53,954 - INFO: Kupiono 0.86506 BTC na giełdzie Mexc po cenie 34711.57000 USDT 
+Sprzedano 0.86506 BTC na giełdzie Binance po cenie 34712.06000 USDT 
+Zysk: 0.42388 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93330 BTC 
+Stan konta na giełdzie Binance: 30027.85188 USDT oraz 0.06670 BTC
+
+
+2023-11-01 19:39:14,081 - INFO: Kupiono 0.86655 BTC na giełdzie Binance po cenie 34652.18000 USDT 
+Sprzedano 0.86655 BTC na giełdzie Mexc po cenie 34658.86000 USDT 
+Zysk: 5.78856 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93325 BTC 
+Stan konta na giełdzie Mexc: 30033.64044 USDT oraz 0.06675 BTC
+
+
+2023-11-01 19:39:48,977 - INFO: Kupiono 0.86897 BTC na giełdzie Mexc po cenie 34562.27000 USDT 
+Sprzedano 0.86897 BTC na giełdzie Binance po cenie 34571.02000 USDT 
+Zysk: 7.60350 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93572 BTC 
+Stan konta na giełdzie Binance: 30041.24394 USDT oraz 0.06428 BTC
+
+
+2023-11-01 19:41:12,102 - INFO: Kupiono 0.86862 BTC na giełdzie Binance po cenie 34585.09000 USDT 
+Sprzedano 0.86862 BTC na giełdzie Mexc po cenie 34594.12000 USDT 
+Zysk: 7.84362 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93290 BTC 
+Stan konta na giełdzie Mexc: 30049.08757 USDT oraz 0.06710 BTC
+
+
+2023-11-01 19:42:00,957 - INFO: Kupiono 0.87016 BTC na giełdzie Mexc po cenie 34532.95000 USDT 
+Sprzedano 0.87016 BTC na giełdzie Binance po cenie 34542.10000 USDT 
+Zysk: 7.96194 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93726 BTC 
+Stan konta na giełdzie Binance: 30057.04950 USDT oraz 0.06274 BTC
+
+
+2023-11-01 19:43:14,126 - INFO: Kupiono 0.87192 BTC na giełdzie Binance po cenie 34472.19000 USDT 
+Sprzedano 0.87192 BTC na giełdzie Mexc po cenie 34475.14000 USDT 
+Zysk: 2.57217 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93466 BTC 
+Stan konta na giełdzie Mexc: 30059.62167 USDT oraz 0.06534 BTC
+
+
+2023-11-01 19:43:15,505 - INFO: Kupiono 0.87214 BTC na giełdzie Mexc po cenie 34466.51000 USDT 
+Sprzedano 0.87214 BTC na giełdzie Binance po cenie 34470.56000 USDT 
+Zysk: 3.53217 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93748 BTC 
+Stan konta na giełdzie Binance: 30063.15384 USDT oraz 0.06252 BTC
+
+
+2023-11-01 19:49:20,593 - INFO: Kupiono 0.87165 BTC na giełdzie Binance po cenie 34490.04000 USDT 
+Sprzedano 0.87165 BTC na giełdzie Mexc po cenie 34492.07000 USDT 
+Zysk: 1.76944 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93417 BTC 
+Stan konta na giełdzie Mexc: 30064.92328 USDT oraz 0.06583 BTC
+
+
+2023-11-01 19:55:32,572 - INFO: Kupiono 0.87042 BTC na giełdzie Mexc po cenie 34540.84000 USDT 
+Sprzedano 0.87042 BTC na giełdzie Binance po cenie 34546.70000 USDT 
+Zysk: 5.10064 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93625 BTC 
+Stan konta na giełdzie Binance: 30070.02392 USDT oraz 0.06375 BTC
+
+
+2023-11-01 20:17:25,148 - INFO: Kupiono 0.87044 BTC na giełdzie Binance po cenie 34545.80000 USDT 
+Sprzedano 0.87044 BTC na giełdzie Mexc po cenie 34546.17000 USDT 
+Zysk: 0.32206 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93419 BTC 
+Stan konta na giełdzie Mexc: 30070.34599 USDT oraz 0.06581 BTC
+
+
+2023-11-01 20:20:01,890 - INFO: Kupiono 0.86937 BTC na giełdzie Mexc po cenie 34588.68000 USDT 
+Sprzedano 0.86937 BTC na giełdzie Binance po cenie 34589.49000 USDT 
+Zysk: 0.70419 USDT
+Stan konta na giełdzie Mexc: -0.00000 USDT oraz 0.93518 BTC 
+Stan konta na giełdzie Binance: 30071.05018 USDT oraz 0.06482 BTC
+
+
+2023-11-01 20:22:31,165 - INFO: Kupiono 0.87008 BTC na giełdzie Binance po cenie 34561.35000 USDT 
+Sprzedano 0.87008 BTC na giełdzie Mexc po cenie 34561.48000 USDT 
+Zysk: 0.11311 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93490 BTC 
+Stan konta na giełdzie Mexc: 30071.16329 USDT oraz 0.06510 BTC
+
+
+2023-11-01 20:22:44,941 - INFO: Kupiono 0.86979 BTC na giełdzie Mexc po cenie 34572.90000 USDT 
+Sprzedano 0.86979 BTC na giełdzie Binance po cenie 34577.12000 USDT 
+Zysk: 3.67051 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93489 BTC 
+Stan konta na giełdzie Binance: 30074.83380 USDT oraz 0.06511 BTC
+
+
+2023-11-01 20:29:17,183 - INFO: Kupiono 0.86666 BTC na giełdzie Binance po cenie 34702.05000 USDT 
+Sprzedano 0.86666 BTC na giełdzie Mexc po cenie 34705.40000 USDT 
+Zysk: 2.90331 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93177 BTC 
+Stan konta na giełdzie Mexc: 30077.73711 USDT oraz 0.06823 BTC
+
+
+2023-11-01 20:29:56,663 - INFO: Kupiono 0.86714 BTC na giełdzie Mexc po cenie 34686.16000 USDT 
+Sprzedano 0.86714 BTC na giełdzie Binance po cenie 34687.66000 USDT 
+Zysk: 1.30071 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93537 BTC 
+Stan konta na giełdzie Binance: 30079.03782 USDT oraz 0.06463 BTC
+
+
+2023-11-01 20:31:50,022 - INFO: Kupiono 0.86744 BTC na giełdzie Binance po cenie 34675.83000 USDT 
+Sprzedano 0.86744 BTC na giełdzie Mexc po cenie 34682.45000 USDT 
+Zysk: 5.74242 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93206 BTC 
+Stan konta na giełdzie Mexc: 30084.78024 USDT oraz 0.06794 BTC
+
+
+2023-11-01 20:31:59,358 - INFO: Kupiono 0.86776 BTC na giełdzie Mexc po cenie 34669.43000 USDT 
+Sprzedano 0.86776 BTC na giełdzie Binance po cenie 34672.02000 USDT 
+Zysk: 2.24750 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93570 BTC 
+Stan konta na giełdzie Binance: 30087.02774 USDT oraz 0.06430 BTC
+
+
+2023-11-01 20:33:27,562 - INFO: Kupiono 0.86955 BTC na giełdzie Binance po cenie 34600.81000 USDT 
+Sprzedano 0.86955 BTC na giełdzie Mexc po cenie 34605.71000 USDT 
+Zysk: 4.26078 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93385 BTC 
+Stan konta na giełdzie Mexc: 30091.28852 USDT oraz 0.06615 BTC
+
+
+2023-11-01 20:41:43,781 - INFO: Kupiono 0.87103 BTC na giełdzie Mexc po cenie 34546.92000 USDT 
+Sprzedano 0.87103 BTC na giełdzie Binance po cenie 34552.51000 USDT 
+Zysk: 4.86904 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93718 BTC 
+Stan konta na giełdzie Binance: 30096.15756 USDT oraz 0.06282 BTC
+
+
+2023-11-01 20:58:11,769 - INFO: Kupiono 0.87139 BTC na giełdzie Binance po cenie 34538.01000 USDT 
+Sprzedano 0.87139 BTC na giełdzie Mexc po cenie 34554.65000 USDT 
+Zysk: 14.49997 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.93421 BTC 
+Stan konta na giełdzie Mexc: 30110.65753 USDT oraz 0.06579 BTC
+
+
+2023-11-01 20:59:07,301 - INFO: Kupiono 0.87161 BTC na giełdzie Mexc po cenie 34546.01000 USDT 
+Sprzedano 0.87161 BTC na giełdzie Binance po cenie 34546.97000 USDT 
+Zysk: 0.83675 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93740 BTC 
+Stan konta na giełdzie Binance: 30111.49427 USDT oraz 0.06260 BTC
+
+
+2023-11-01 21:24:17,262 - INFO: Kupiono 0.86653 BTC na giełdzie Binance po cenie 34749.37000 USDT 
+Sprzedano 0.86653 BTC na giełdzie Mexc po cenie 34754.49000 USDT 
+Zysk: 4.43665 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92914 BTC 
+Stan konta na giełdzie Mexc: 30115.93092 USDT oraz 0.07086 BTC
+
+
+2023-11-01 21:26:27,205 - INFO: Kupiono 0.86644 BTC na giełdzie Mexc po cenie 34758.20000 USDT 
+Sprzedano 0.86644 BTC na giełdzie Binance po cenie 34759.76000 USDT 
+Zysk: 1.35165 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93730 BTC 
+Stan konta na giełdzie Binance: 30117.28257 USDT oraz 0.06270 BTC
+
+
+2023-11-01 21:28:00,281 - INFO: Kupiono 0.86653 BTC na giełdzie Binance po cenie 34756.19000 USDT 
+Sprzedano 0.86653 BTC na giełdzie Mexc po cenie 34758.63000 USDT 
+Zysk: 2.11433 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92923 BTC 
+Stan konta na giełdzie Mexc: 30119.39690 USDT oraz 0.07077 BTC
+
+
+2023-11-01 21:28:32,151 - INFO: Kupiono 0.86579 BTC na giełdzie Mexc po cenie 34788.28000 USDT 
+Sprzedano 0.86579 BTC na giełdzie Binance po cenie 34790.27000 USDT 
+Zysk: 1.72293 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93656 BTC 
+Stan konta na giełdzie Binance: 30121.11983 USDT oraz 0.06344 BTC
+
+
+2023-11-01 22:08:27,266 - INFO: Kupiono 0.42438 BTC na giełdzie Binance po cenie 35345.35000 USDT 
+Sprzedano 0.42438 BTC na giełdzie Mexc po cenie 35350.02000 USDT 
+Zysk: 1.98187 USDT
+Stan konta na giełdzie Binance: -0.00000 USDT oraz 0.92438 BTC 
+Stan konta na giełdzie Mexc: 30001.98187 USDT oraz 0.07562 BTC
+
+
+2023-11-01 22:08:29,181 - INFO: Kupiono -0.00000 BTC na giełdzie Binance po cenie 35345.34000 USDT 
+Sprzedano -0.00000 BTC na giełdzie Mexc po cenie 35321.02000 USDT 
+Zysk: 0.00000 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92438 BTC 
+Stan konta na giełdzie Mexc: 30001.98187 USDT oraz 0.07562 BTC
+
+
+2023-11-01 22:08:40,042 - INFO: Kupiono 0.84985 BTC na giełdzie Mexc po cenie 35302.71000 USDT 
+Sprzedano 0.84985 BTC na giełdzie Binance po cenie 35309.07000 USDT 
+Zysk: 5.40504 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92547 BTC 
+Stan konta na giełdzie Binance: 30007.38691 USDT oraz 0.07453 BTC
+
+
+2023-11-01 22:09:05,220 - INFO: Kupiono 0.85095 BTC na giełdzie Binance po cenie 35263.52000 USDT 
+Sprzedano 0.85095 BTC na giełdzie Mexc po cenie 35271.75000 USDT 
+Zysk: 7.00329 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92548 BTC 
+Stan konta na giełdzie Mexc: 30014.39021 USDT oraz 0.07452 BTC
+
+
+2023-11-01 22:09:16,014 - INFO: Kupiono 0.85095 BTC na giełdzie Mexc po cenie 35271.46000 USDT 
+Sprzedano 0.85095 BTC na giełdzie Binance po cenie 35272.09000 USDT 
+Zysk: 0.53610 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92547 BTC 
+Stan konta na giełdzie Binance: 30014.92631 USDT oraz 0.07453 BTC
+
+
+2023-11-01 22:09:46,383 - INFO: Kupiono 0.85240 BTC na giełdzie Binance po cenie 35212.46000 USDT 
+Sprzedano 0.85240 BTC na giełdzie Mexc po cenie 35215.68000 USDT 
+Zysk: 2.74471 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92692 BTC 
+Stan konta na giełdzie Mexc: 30017.67102 USDT oraz 0.07308 BTC
+
+
+2023-11-01 22:10:06,241 - INFO: Kupiono 0.85450 BTC na giełdzie Mexc po cenie 35128.86000 USDT 
+Sprzedano 0.85450 BTC na giełdzie Binance po cenie 35142.86000 USDT 
+Zysk: 11.96302 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92758 BTC 
+Stan konta na giełdzie Binance: 30029.63405 USDT oraz 0.07242 BTC
+
+
+2023-11-01 22:10:44,243 - INFO: Kupiono 0.85370 BTC na giełdzie Binance po cenie 35176.06000 USDT 
+Sprzedano 0.85370 BTC na giełdzie Mexc po cenie 35180.04000 USDT 
+Zysk: 3.39771 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92612 BTC 
+Stan konta na giełdzie Mexc: 30033.03175 USDT oraz 0.07388 BTC
+
+
+2023-11-01 22:11:14,555 - INFO: Kupiono 0.85374 BTC na giełdzie Mexc po cenie 35178.01000 USDT 
+Sprzedano 0.85374 BTC na giełdzie Binance po cenie 35178.97000 USDT 
+Zysk: 0.81959 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92763 BTC 
+Stan konta na giełdzie Binance: 30033.85135 USDT oraz 0.07237 BTC
+
+
+2023-11-01 22:13:10,661 - INFO: Kupiono 0.85077 BTC na giełdzie Binance po cenie 35302.06000 USDT 
+Sprzedano 0.85077 BTC na giełdzie Mexc po cenie 35323.86000 USDT 
+Zysk: 18.54674 USDT
+Stan konta na giełdzie Binance: -0.00000 USDT oraz 0.92314 BTC 
+Stan konta na giełdzie Mexc: 30052.39808 USDT oraz 0.07686 BTC
+
+
+2023-11-01 22:13:13,379 - INFO: Kupiono -0.00000 BTC na giełdzie Binance po cenie 35291.55000 USDT 
+Sprzedano -0.00000 BTC na giełdzie Mexc po cenie 35271.12000 USDT 
+Zysk: 0.00000 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92314 BTC 
+Stan konta na giełdzie Mexc: 30052.39808 USDT oraz 0.07686 BTC
+
+
+2023-11-01 22:13:18,141 - INFO: Kupiono 0.85135 BTC na giełdzie Mexc po cenie 35299.63000 USDT 
+Sprzedano 0.85135 BTC na giełdzie Binance po cenie 35307.93000 USDT 
+Zysk: 7.06622 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92821 BTC 
+Stan konta na giełdzie Binance: 30059.46430 USDT oraz 0.07179 BTC
+
+
+2023-11-01 22:13:40,227 - INFO: Kupiono 0.85141 BTC na giełdzie Binance po cenie 35305.34000 USDT 
+Sprzedano 0.85141 BTC na giełdzie Mexc po cenie 35306.06000 USDT 
+Zysk: 0.61302 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92320 BTC 
+Stan konta na giełdzie Mexc: 30060.07732 USDT oraz 0.07680 BTC
+
+
+2023-11-01 22:14:34,412 - INFO: Kupiono 0.85281 BTC na giełdzie Mexc po cenie 35248.41000 USDT 
+Sprzedano 0.85281 BTC na giełdzie Binance po cenie 35250.46000 USDT 
+Zysk: 1.74825 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92960 BTC 
+Stan konta na giełdzie Binance: 30061.82557 USDT oraz 0.07040 BTC
+
+
+2023-11-01 22:15:46,685 - INFO: Kupiono 0.85124 BTC na giełdzie Binance po cenie 35315.39000 USDT 
+Sprzedano 0.85124 BTC na giełdzie Mexc po cenie 35318.61000 USDT 
+Zysk: 2.74099 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92163 BTC 
+Stan konta na giełdzie Mexc: 30064.56656 USDT oraz 0.07837 BTC
+
+
+2023-11-01 22:16:54,849 - INFO: Kupiono 0.85111 BTC na giełdzie Mexc po cenie 35323.84000 USDT 
+Sprzedano 0.85111 BTC na giełdzie Binance po cenie 35325.13000 USDT 
+Zysk: 1.09794 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92948 BTC 
+Stan konta na giełdzie Binance: 30065.66450 USDT oraz 0.07052 BTC
+
+
+2023-11-01 22:17:02,359 - INFO: Kupiono 0.85124 BTC na giełdzie Binance po cenie 35320.04000 USDT 
+Sprzedano 0.85124 BTC na giełdzie Mexc po cenie 35324.37000 USDT 
+Zysk: 3.68585 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92176 BTC 
+Stan konta na giełdzie Mexc: 30069.35035 USDT oraz 0.07824 BTC
+
+
+2023-11-01 22:17:30,783 - INFO: Kupiono 0.85029 BTC na giełdzie Mexc po cenie 35363.81000 USDT 
+Sprzedano 0.85029 BTC na giełdzie Binance po cenie 35366.95000 USDT 
+Zysk: 2.66990 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92853 BTC 
+Stan konta na giełdzie Binance: 30072.02024 USDT oraz 0.07147 BTC
+
+
+2023-11-01 22:18:36,639 - INFO: Kupiono 0.84823 BTC na giełdzie Binance po cenie 35452.72000 USDT 
+Sprzedano 0.84823 BTC na giełdzie Mexc po cenie 35457.81000 USDT 
+Zysk: 4.31748 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.91970 BTC 
+Stan konta na giełdzie Mexc: 30076.33773 USDT oraz 0.08030 BTC
+
+
+2023-11-01 22:19:29,823 - INFO: Kupiono 0.85049 BTC na giełdzie Mexc po cenie 35363.47000 USDT 
+Sprzedano 0.85049 BTC na giełdzie Binance po cenie 35365.51000 USDT 
+Zysk: 1.73500 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93079 BTC 
+Stan konta na giełdzie Binance: 30078.07273 USDT oraz 0.06921 BTC
+
+
+2023-11-01 22:20:51,830 - INFO: Kupiono 0.84904 BTC na giełdzie Binance po cenie 35425.82000 USDT 
+Sprzedano 0.84904 BTC na giełdzie Mexc po cenie 35433.31000 USDT 
+Zysk: 6.35934 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.91825 BTC 
+Stan konta na giełdzie Mexc: 30084.43207 USDT oraz 0.08175 BTC
+
+
+2023-11-01 22:21:32,360 - INFO: Kupiono 0.85120 BTC na giełdzie Mexc po cenie 35343.39000 USDT 
+Sprzedano 0.85120 BTC na giełdzie Binance po cenie 35343.96000 USDT 
+Zysk: 0.48519 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93295 BTC 
+Stan konta na giełdzie Binance: 30084.91726 USDT oraz 0.06705 BTC
+
+
+2023-11-01 22:23:05,097 - INFO: Kupiono 0.85199 BTC na giełdzie Binance po cenie 35311.44000 USDT 
+Sprzedano 0.85199 BTC na giełdzie Mexc po cenie 35313.27000 USDT 
+Zysk: 1.55914 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.91904 BTC 
+Stan konta na giełdzie Mexc: 30086.47639 USDT oraz 0.08096 BTC
+
+
+2023-11-01 22:23:53,251 - INFO: Kupiono 0.85208 BTC na giełdzie Mexc po cenie 35309.65000 USDT 
+Sprzedano 0.85208 BTC na giełdzie Binance po cenie 35316.74000 USDT 
+Zysk: 6.04121 USDT
+Stan konta na giełdzie Mexc: -0.00000 USDT oraz 0.93304 BTC 
+Stan konta na giełdzie Binance: 30092.51761 USDT oraz 0.06696 BTC
+
+
+2023-11-01 22:25:50,270 - INFO: Kupiono 0.85353 BTC na giełdzie Binance po cenie 35256.73000 USDT 
+Sprzedano 0.85353 BTC na giełdzie Mexc po cenie 35261.92000 USDT 
+Zysk: 4.42980 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92049 BTC 
+Stan konta na giełdzie Mexc: 30096.94740 USDT oraz 0.07951 BTC
+
+
+2023-11-01 22:26:06,256 - INFO: Kupiono 0.85397 BTC na giełdzie Mexc po cenie 35243.64000 USDT 
+Sprzedano 0.85397 BTC na giełdzie Binance po cenie 35244.88000 USDT 
+Zysk: 1.05892 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.93348 BTC 
+Stan konta na giełdzie Binance: 30098.00632 USDT oraz 0.06652 BTC
+
+
+2023-11-05 18:11:28,541 - INFO: Kupiono 0.42633 BTC na giełdzie Mexc po cenie 35184.12000 USDT 
+Sprzedano 0.42633 BTC na giełdzie Binance po cenie 35186.20000 USDT 
+Zysk: 0.88676 USDT
+Stan konta na giełdzie Mexc: 0.00000 USDT oraz 0.92633 BTC 
+Stan konta na giełdzie Binance: 30000.88676 USDT oraz 0.07367 BTC
+
+
+2023-11-05 18:23:09,344 - INFO: Kupiono 0.42688 BTC na giełdzie Binance po cenie 35139.06000 USDT 
+Sprzedano 0.42688 BTC na giełdzie Mexc po cenie 35141.55000 USDT 
+Zysk: 1.06292 USDT
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92688 BTC 
+Stan konta na giełdzie Mexc: 30001.06292 USDT oraz 0.07312 BTC
+
+
+2023-11-05 18:31:30,413 - INFO: Kupiono 0.42719 BTC na giełdzie Binance po cenie 35112.82000 BUSD 
+Sprzedano 0.42719 BTC na giełdzie Mexc po cenie 35113.09000 BUSD 
+Zysk: 0.11534 BUSD
+Stan konta na giełdzie Binance: 0.00000 USDT oraz 0.92719 BTC 
+Stan konta na giełdzie Mexc: 30000.11534 USDT oraz 0.07281 BTC
+
+

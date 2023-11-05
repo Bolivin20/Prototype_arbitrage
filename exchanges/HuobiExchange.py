@@ -1,4 +1,3 @@
-import requests
 from exchanges.Exchange import Exchange
 
 class HuobiExchange(Exchange):

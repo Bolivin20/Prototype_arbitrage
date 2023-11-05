@@ -1,9 +1,8 @@
 from exchanges.Exchange import Exchange
-import requests
 
 class MexcExchange(Exchange):
     def __init__(self):
-        super().__init__('Mexc', "https://api.mexc.com/api/v3/depth?symbol=BTCBUSD")
+        super().__init__('Mexc', "https://api.mexc.com/api/v3/depth?symbol=BTCUSDT")
 
     def extract_bid_ask_prices(self, data):
         bids = data['bids']
