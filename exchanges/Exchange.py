@@ -21,3 +21,13 @@ class Exchange:
 
     def extract_bid_ask_prices(self, data):
         raise NotImplementedError
+    
+    def extract_bid_ask_quantities(self, data):
+        raise NotImplementedError
+    
+    def get_bid_ask_quantities(self):
+        data = self.get_data()
+        if data:
+            return self.extract_bid_ask_quantities(data)
+        else:
+            return None

@@ -1,0 +1,888 @@
+2023-11-11 16:42:43,378 - INFO: Potencjalna transakcja: Kupiono 0.10300 BTC na giełdzie Kraken po cenie 37123.60000 USDT 
+Sprzedano 0.10300 BTC na giełdzie Coinbase po cenie 37157.94000 USDT 
+Potencjalny zysk: 3.53702 USDT
+Wolumeny: 0.10300 BTC na Kraken, 0.16054 BTC na Coinbase
+
+
+2023-11-11 16:43:09,960 - INFO: Potencjalna transakcja: Kupiono 0.77600 BTC na giełdzie Kraken po cenie 37130.60000 USDT 
+Sprzedano 0.77600 BTC na giełdzie Binance po cenie 37135.28000 USDT 
+Potencjalny zysk: 3.63168 USDT
+Wolumeny: 0.77600 BTC na Kraken, 5.40732 BTC na Binance
+
+
+2023-11-11 16:43:38,877 - INFO: Potencjalna transakcja: Kupiono 1.44527 BTC na giełdzie Binance po cenie 37129.03000 USDT 
+Sprzedano 1.44527 BTC na giełdzie Huobi po cenie 37130.49000 USDT 
+Potencjalny zysk: 2.11010 USDT
+Wolumeny: 2.92174 BTC na Binance, 1.44527 BTC na Huobi
+
+
+2023-11-11 16:44:04,932 - INFO: Potencjalna transakcja: Kupiono 0.16950 BTC na giełdzie Binance po cenie 37129.01000 USDT 
+Sprzedano 0.16950 BTC na giełdzie Coinbase po cenie 37155.20000 USDT 
+Potencjalny zysk: 4.43921 USDT
+Wolumeny: 2.23347 BTC na Binance, 0.16950 BTC na Coinbase
+
+
+2023-11-11 16:44:31,599 - INFO: Potencjalna transakcja: Kupiono 0.05130 BTC na giełdzie Kraken po cenie 37123.30000 USDT 
+Sprzedano 0.05130 BTC na giełdzie Coinbase po cenie 37154.06000 USDT 
+Potencjalny zysk: 1.57799 USDT
+Wolumeny: 0.10300 BTC na Kraken, 0.05130 BTC na Coinbase
+
+
+2023-11-11 16:44:59,143 - INFO: Potencjalna transakcja: Kupiono 1.53487 BTC na giełdzie Binance po cenie 37130.99000 USDT 
+Sprzedano 1.53487 BTC na giełdzie Huobi po cenie 37131.91000 USDT 
+Potencjalny zysk: 1.41208 USDT
+Wolumeny: 2.11760 BTC na Binance, 1.53487 BTC na Huobi
+
+
+2023-11-11 16:45:27,009 - INFO: Potencjalna transakcja: Kupiono 1.50271 BTC na giełdzie Binance po cenie 37127.83000 USDT 
+Sprzedano 1.50271 BTC na giełdzie Huobi po cenie 37131.91000 USDT 
+Potencjalny zysk: 6.13106 USDT
+Wolumeny: 5.15781 BTC na Binance, 1.50271 BTC na Huobi
+
+
+2023-11-11 16:45:54,565 - INFO: Potencjalna transakcja: Kupiono 0.06177 BTC na giełdzie Kraken po cenie 37132.40000 USDT 
+Sprzedano 0.06177 BTC na giełdzie Coinbase po cenie 37158.01000 USDT 
+Potencjalny zysk: 1.58192 USDT
+Wolumeny: 0.10300 BTC na Kraken, 0.06177 BTC na Coinbase
+
+
+2023-11-11 16:46:21,067 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Binance po cenie 37124.69000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37128.30000 USDT 
+Potencjalny zysk: 2.42953 USDT
+Wolumeny: 11.97914 BTC na Binance, 0.67300 BTC na Kraken
+
+
+2023-11-11 16:46:49,240 - INFO: Potencjalna transakcja: Kupiono 0.04934 BTC na giełdzie Kraken po cenie 37105.20000 USDT 
+Sprzedano 0.04934 BTC na giełdzie Coinbase po cenie 37129.10000 USDT 
+Potencjalny zysk: 1.17931 USDT
+Wolumeny: 0.10300 BTC na Kraken, 0.04934 BTC na Coinbase
+
+
+2023-11-11 16:47:15,601 - INFO: Potencjalna transakcja: Kupiono 0.18376 BTC na giełdzie Huobi po cenie 37110.48000 USDT 
+Sprzedano 0.18376 BTC na giełdzie Coinbase po cenie 37135.26000 USDT 
+Potencjalny zysk: 4.55347 USDT
+Wolumeny: 0.18376 BTC na Huobi, 0.59096 BTC na Coinbase
+
+
+2023-11-11 16:47:47,003 - INFO: Potencjalna transakcja: Kupiono 0.45392 BTC na giełdzie Binance po cenie 37111.23000 USDT 
+Sprzedano 0.45392 BTC na giełdzie Huobi po cenie 37113.87000 USDT 
+Potencjalny zysk: 1.19834 USDT
+Wolumeny: 0.80094 BTC na Binance, 0.45392 BTC na Huobi
+
+
+2023-11-11 16:48:13,956 - INFO: Potencjalna transakcja: Kupiono 0.52768 BTC na giełdzie Binance po cenie 37111.61000 USDT 
+Sprzedano 0.52768 BTC na giełdzie Huobi po cenie 37112.71000 USDT 
+Potencjalny zysk: 0.58044 USDT
+Wolumeny: 3.87693 BTC na Binance, 0.52768 BTC na Huobi
+
+
+2023-11-11 16:48:43,304 - INFO: Potencjalna transakcja: Kupiono 0.09864 BTC na giełdzie Binance po cenie 37100.01000 USDT 
+Sprzedano 0.09864 BTC na giełdzie Coinbase po cenie 37122.76000 USDT 
+Potencjalny zysk: 2.24415 USDT
+Wolumeny: 12.37230 BTC na Binance, 0.09864 BTC na Coinbase
+
+
+2023-11-11 16:49:11,758 - INFO: Potencjalna transakcja: Kupiono 0.45130 BTC na giełdzie Huobi po cenie 37087.65000 USDT 
+Sprzedano 0.45130 BTC na giełdzie Coinbase po cenie 37117.55000 USDT 
+Potencjalny zysk: 13.49387 USDT
+Wolumeny: 0.70922 BTC na Huobi, 0.45130 BTC na Coinbase
+
+
+2023-11-11 16:49:38,352 - INFO: Potencjalna transakcja: Kupiono 0.04853 BTC na giełdzie Huobi po cenie 37096.28000 USDT 
+Sprzedano 0.04853 BTC na giełdzie Coinbase po cenie 37123.73000 USDT 
+Potencjalny zysk: 1.33207 USDT
+Wolumeny: 0.04853 BTC na Huobi, 0.31270 BTC na Coinbase
+
+
+2023-11-11 16:50:07,347 - INFO: Potencjalna transakcja: Kupiono 0.04820 BTC na giełdzie Binance po cenie 37099.57000 USDT 
+Sprzedano 0.04820 BTC na giełdzie Coinbase po cenie 37126.13000 USDT 
+Potencjalny zysk: 1.28032 USDT
+Wolumeny: 0.47963 BTC na Binance, 0.04820 BTC na Coinbase
+
+
+2023-11-11 16:50:34,872 - INFO: Potencjalna transakcja: Kupiono 0.21422 BTC na giełdzie Kraken po cenie 37100.10000 USDT 
+Sprzedano 0.21422 BTC na giełdzie Coinbase po cenie 37126.86000 USDT 
+Potencjalny zysk: 5.73257 USDT
+Wolumeny: 0.68900 BTC na Kraken, 0.21422 BTC na Coinbase
+
+
+2023-11-11 16:51:00,977 - INFO: Potencjalna transakcja: Kupiono 0.34184 BTC na giełdzie Binance po cenie 37095.01000 USDT 
+Sprzedano 0.34184 BTC na giełdzie Huobi po cenie 37097.50000 USDT 
+Potencjalny zysk: 0.85118 USDT
+Wolumeny: 7.90671 BTC na Binance, 0.34184 BTC na Huobi
+
+
+2023-11-11 16:51:28,676 - INFO: Potencjalna transakcja: Kupiono 1.54911 BTC na giełdzie Huobi po cenie 37097.52000 USDT 
+Sprzedano 1.54911 BTC na giełdzie Binance po cenie 37098.99000 USDT 
+Potencjalny zysk: 2.27719 USDT
+Wolumeny: 2.36030 BTC na Huobi, 1.54911 BTC na Binance
+
+
+2023-11-11 16:51:57,464 - INFO: Potencjalna transakcja: Kupiono 0.03460 BTC na giełdzie Kraken po cenie 37084.70000 USDT 
+Sprzedano 0.03460 BTC na giełdzie Coinbase po cenie 37105.74000 USDT 
+Potencjalny zysk: 0.72798 USDT
+Wolumeny: 0.77700 BTC na Kraken, 0.03460 BTC na Coinbase
+
+
+2023-11-11 16:52:25,192 - INFO: Potencjalna transakcja: Kupiono 0.47214 BTC na giełdzie Kraken po cenie 37086.50000 USDT 
+Sprzedano 0.47214 BTC na giełdzie Huobi po cenie 37091.45000 USDT 
+Potencjalny zysk: 2.33708 USDT
+Wolumeny: 0.67400 BTC na Kraken, 0.47214 BTC na Huobi
+
+
+2023-11-11 16:52:53,553 - INFO: Potencjalna transakcja: Kupiono 0.44362 BTC na giełdzie Binance po cenie 37093.17000 USDT 
+Sprzedano 0.44362 BTC na giełdzie Huobi po cenie 37094.45000 USDT 
+Potencjalny zysk: 0.56784 USDT
+Wolumeny: 1.30745 BTC na Binance, 0.44362 BTC na Huobi
+
+
+2023-11-11 16:53:22,916 - INFO: Potencjalna transakcja: Kupiono 0.06197 BTC na giełdzie Huobi po cenie 37083.51000 USDT 
+Sprzedano 0.06197 BTC na giełdzie Coinbase po cenie 37108.49000 USDT 
+Potencjalny zysk: 1.54801 USDT
+Wolumeny: 2.56561 BTC na Huobi, 0.06197 BTC na Coinbase
+
+
+2023-11-11 16:53:54,928 - INFO: Potencjalna transakcja: Kupiono 0.07500 BTC na giełdzie Kraken po cenie 37082.30000 USDT 
+Sprzedano 0.07500 BTC na giełdzie Coinbase po cenie 37109.79000 USDT 
+Potencjalny zysk: 2.06175 USDT
+Wolumeny: 0.67400 BTC na Kraken, 0.07500 BTC na Coinbase
+
+
+2023-11-11 16:54:24,311 - INFO: Potencjalna transakcja: Kupiono 0.38493 BTC na giełdzie Binance po cenie 37030.67000 USDT 
+Sprzedano 0.38493 BTC na giełdzie Coinbase po cenie 37063.21000 USDT 
+Potencjalny zysk: 12.52562 USDT
+Wolumeny: 4.19523 BTC na Binance, 0.38493 BTC na Coinbase
+
+
+2023-11-11 16:54:52,759 - INFO: Potencjalna transakcja: Kupiono 0.26693 BTC na giełdzie Binance po cenie 37038.71000 USDT 
+Sprzedano 0.26693 BTC na giełdzie Coinbase po cenie 37068.94000 USDT 
+Potencjalny zysk: 8.06940 USDT
+Wolumeny: 0.85268 BTC na Binance, 0.26693 BTC na Coinbase
+
+
+2023-11-11 16:55:21,033 - INFO: Potencjalna transakcja: Kupiono 0.04563 BTC na giełdzie Binance po cenie 37056.00000 USDT 
+Sprzedano 0.04563 BTC na giełdzie Coinbase po cenie 37088.14000 USDT 
+Potencjalny zysk: 1.46659 USDT
+Wolumeny: 0.84135 BTC na Binance, 0.04563 BTC na Coinbase
+
+
+2023-11-11 16:55:48,876 - INFO: Potencjalna transakcja: Kupiono 0.36186 BTC na giełdzie Huobi po cenie 37054.67000 USDT 
+Sprzedano 0.36186 BTC na giełdzie Binance po cenie 37058.21000 USDT 
+Potencjalny zysk: 1.28098 USDT
+Wolumeny: 0.36186 BTC na Huobi, 2.81445 BTC na Binance
+
+
+2023-11-11 16:56:15,836 - INFO: Potencjalna transakcja: Kupiono 0.48411 BTC na giełdzie Kraken po cenie 37056.40000 USDT 
+Sprzedano 0.48411 BTC na giełdzie Huobi po cenie 37060.56000 USDT 
+Potencjalny zysk: 2.01388 USDT
+Wolumeny: 1.34900 BTC na Kraken, 0.48411 BTC na Huobi
+
+
+2023-11-11 16:56:43,690 - INFO: Potencjalna transakcja: Kupiono 0.04667 BTC na giełdzie Binance po cenie 37070.00000 USDT 
+Sprzedano 0.04667 BTC na giełdzie Coinbase po cenie 37094.00000 USDT 
+Potencjalny zysk: 1.12007 USDT
+Wolumeny: 1.02790 BTC na Binance, 0.04667 BTC na Coinbase
+
+
+2023-11-11 16:57:13,295 - INFO: Potencjalna transakcja: Kupiono 1.34800 BTC na giełdzie Huobi po cenie 37078.50000 USDT 
+Sprzedano 1.34800 BTC na giełdzie Kraken po cenie 37083.00000 USDT 
+Potencjalny zysk: 6.06600 USDT
+Wolumeny: 1.62585 BTC na Huobi, 1.34800 BTC na Kraken
+
+
+2023-11-11 16:57:42,453 - INFO: Potencjalna transakcja: Kupiono 1.67274 BTC na giełdzie Huobi po cenie 37088.23000 USDT 
+Sprzedano 1.67274 BTC na giełdzie Binance po cenie 37088.63000 USDT 
+Potencjalny zysk: 0.66910 USDT
+Wolumeny: 2.55138 BTC na Huobi, 1.67274 BTC na Binance
+
+
+2023-11-11 16:58:12,298 - INFO: Potencjalna transakcja: Kupiono 0.25870 BTC na giełdzie Huobi po cenie 37083.23000 USDT 
+Sprzedano 0.25870 BTC na giełdzie Coinbase po cenie 37112.84000 USDT 
+Potencjalny zysk: 7.66000 USDT
+Wolumeny: 0.77577 BTC na Huobi, 0.25870 BTC na Coinbase
+
+
+2023-11-11 16:58:41,315 - INFO: Potencjalna transakcja: Kupiono 0.10300 BTC na giełdzie Kraken po cenie 37080.10000 USDT 
+Sprzedano 0.10300 BTC na giełdzie Coinbase po cenie 37109.00000 USDT 
+Potencjalny zysk: 2.97670 USDT
+Wolumeny: 0.10300 BTC na Kraken, 0.12665 BTC na Coinbase
+
+
+2023-11-11 16:59:09,785 - INFO: Potencjalna transakcja: Kupiono 0.00606 BTC na giełdzie Binance po cenie 37081.55000 USDT 
+Sprzedano 0.00606 BTC na giełdzie Coinbase po cenie 37110.15000 USDT 
+Potencjalny zysk: 0.17322 USDT
+Wolumeny: 7.83534 BTC na Binance, 0.00606 BTC na Coinbase
+
+
+2023-11-11 16:59:39,694 - INFO: Potencjalna transakcja: Kupiono 0.69900 BTC na giełdzie Binance po cenie 37064.51000 USDT 
+Sprzedano 0.69900 BTC na giełdzie Kraken po cenie 37067.40000 USDT 
+Potencjalny zysk: 2.02011 USDT
+Wolumeny: 9.38315 BTC na Binance, 0.69900 BTC na Kraken
+
+
+2023-11-11 17:00:08,447 - INFO: Potencjalna transakcja: Kupiono 0.01619 BTC na giełdzie Huobi po cenie 37049.86000 USDT 
+Sprzedano 0.01619 BTC na giełdzie Coinbase po cenie 37079.38000 USDT 
+Potencjalny zysk: 0.47791 USDT
+Wolumeny: 0.72051 BTC na Huobi, 0.01619 BTC na Coinbase
+
+
+2023-11-11 17:00:37,325 - INFO: Potencjalna transakcja: Kupiono 0.29613 BTC na giełdzie Binance po cenie 37050.78000 USDT 
+Sprzedano 0.29613 BTC na giełdzie Coinbase po cenie 37079.99000 USDT 
+Potencjalny zysk: 8.65008 USDT
+Wolumeny: 1.13909 BTC na Binance, 0.29613 BTC na Coinbase
+
+
+2023-11-11 17:01:05,915 - INFO: Potencjalna transakcja: Kupiono 0.16500 BTC na giełdzie Binance po cenie 37057.39000 USDT 
+Sprzedano 0.16500 BTC na giełdzie Coinbase po cenie 37084.51000 USDT 
+Potencjalny zysk: 4.47480 USDT
+Wolumeny: 0.84303 BTC na Binance, 0.16500 BTC na Coinbase
+
+
+2023-11-11 17:01:34,178 - INFO: Potencjalna transakcja: Kupiono 0.04691 BTC na giełdzie Huobi po cenie 37079.32000 USDT 
+Sprzedano 0.04691 BTC na giełdzie Coinbase po cenie 37108.28000 USDT 
+Potencjalny zysk: 1.35859 USDT
+Wolumeny: 1.38419 BTC na Huobi, 0.04691 BTC na Coinbase
+
+
+2023-11-11 17:02:01,431 - INFO: Potencjalna transakcja: Kupiono 0.04670 BTC na giełdzie Huobi po cenie 37081.93000 USDT 
+Sprzedano 0.04670 BTC na giełdzie Coinbase po cenie 37112.52000 USDT 
+Potencjalny zysk: 1.42859 USDT
+Wolumeny: 0.62082 BTC na Huobi, 0.04670 BTC na Coinbase
+
+
+2023-11-11 17:02:29,898 - INFO: Potencjalna transakcja: Kupiono 0.25163 BTC na giełdzie Huobi po cenie 37083.82000 USDT 
+Sprzedano 0.25163 BTC na giełdzie Binance po cenie 37085.93000 USDT 
+Potencjalny zysk: 0.53093 USDT
+Wolumeny: 0.25163 BTC na Huobi, 12.72016 BTC na Binance
+
+
+2023-11-11 17:02:59,844 - INFO: Potencjalna transakcja: Kupiono 0.39097 BTC na giełdzie Huobi po cenie 37062.49000 USDT 
+Sprzedano 0.39097 BTC na giełdzie Binance po cenie 37085.93000 USDT 
+Potencjalny zysk: 9.16422 USDT
+Wolumeny: 0.39097 BTC na Huobi, 1.29532 BTC na Binance
+
+
+2023-11-11 17:03:29,371 - INFO: Potencjalna transakcja: Kupiono 0.67400 BTC na giełdzie Huobi po cenie 37084.98000 USDT 
+Sprzedano 0.67400 BTC na giełdzie Kraken po cenie 37092.20000 USDT 
+Potencjalny zysk: 4.86628 USDT
+Wolumeny: 0.73362 BTC na Huobi, 0.67400 BTC na Kraken
+
+
+2023-11-11 17:03:57,804 - INFO: Potencjalna transakcja: Kupiono 2.52383 BTC na giełdzie Huobi po cenie 37074.28000 USDT 
+Sprzedano 2.52383 BTC na giełdzie Binance po cenie 37076.92000 USDT 
+Potencjalny zysk: 6.66290 USDT
+Wolumeny: 2.52383 BTC na Huobi, 3.99029 BTC na Binance
+
+
+2023-11-11 17:04:26,757 - INFO: Potencjalna transakcja: Kupiono 1.52592 BTC na giełdzie Huobi po cenie 37079.29000 USDT 
+Sprzedano 1.52592 BTC na giełdzie Binance po cenie 37085.87000 USDT 
+Potencjalny zysk: 10.04055 USDT
+Wolumeny: 1.52592 BTC na Huobi, 8.84453 BTC na Binance
+
+
+2023-11-11 17:04:53,644 - INFO: Potencjalna transakcja: Kupiono 0.01252 BTC na giełdzie Kraken po cenie 37088.70000 USDT 
+Sprzedano 0.01252 BTC na giełdzie Coinbase po cenie 37115.09000 USDT 
+Potencjalny zysk: 0.33038 USDT
+Wolumeny: 0.10300 BTC na Kraken, 0.01252 BTC na Coinbase
+
+
+2023-11-11 17:05:25,052 - INFO: Potencjalna transakcja: Kupiono 1.84928 BTC na giełdzie Huobi po cenie 37073.79000 USDT 
+Sprzedano 1.84928 BTC na giełdzie Binance po cenie 37082.68000 USDT 
+Potencjalny zysk: 16.44010 USDT
+Wolumeny: 2.43201 BTC na Huobi, 1.84928 BTC na Binance
+
+
+2023-11-11 17:05:55,855 - INFO: Potencjalna transakcja: Kupiono 2.06345 BTC na giełdzie Huobi po cenie 37082.80000 USDT 
+Sprzedano 2.06345 BTC na giełdzie Binance po cenie 37090.61000 USDT 
+Potencjalny zysk: 16.11558 USDT
+Wolumeny: 2.06345 BTC na Huobi, 6.24158 BTC na Binance
+
+
+2023-11-11 17:06:23,286 - INFO: Potencjalna transakcja: Kupiono 0.67400 BTC na giełdzie Kraken po cenie 37098.50000 USDT 
+Sprzedano 0.67400 BTC na giełdzie Binance po cenie 37101.86000 USDT 
+Potencjalny zysk: 2.26464 USDT
+Wolumeny: 0.67400 BTC na Kraken, 8.74401 BTC na Binance
+
+
+2023-11-11 17:06:50,868 - INFO: Potencjalna transakcja: Kupiono 0.08773 BTC na giełdzie Binance po cenie 37108.98000 USDT 
+Sprzedano 0.08773 BTC na giełdzie Coinbase po cenie 37136.57000 USDT 
+Potencjalny zysk: 2.42047 USDT
+Wolumeny: 0.08773 BTC na Binance, 0.19630 BTC na Coinbase
+
+
+2023-11-11 17:07:19,655 - INFO: Potencjalna transakcja: Kupiono 0.05130 BTC na giełdzie Huobi po cenie 37105.99000 USDT 
+Sprzedano 0.05130 BTC na giełdzie Coinbase po cenie 37145.26000 USDT 
+Potencjalny zysk: 2.01455 USDT
+Wolumeny: 1.59208 BTC na Huobi, 0.05130 BTC na Coinbase
+
+
+2023-11-11 17:07:48,790 - INFO: Potencjalna transakcja: Kupiono 0.09548 BTC na giełdzie Binance po cenie 37116.64000 USDT 
+Sprzedano 0.09548 BTC na giełdzie Coinbase po cenie 37145.88000 USDT 
+Potencjalny zysk: 2.79173 USDT
+Wolumeny: 0.48782 BTC na Binance, 0.09548 BTC na Coinbase
+
+
+2023-11-11 17:08:20,616 - INFO: Potencjalna transakcja: Kupiono 1.77306 BTC na giełdzie Huobi po cenie 37117.00000 USDT 
+Sprzedano 1.77306 BTC na giełdzie Binance po cenie 37125.75000 USDT 
+Potencjalny zysk: 15.51425 USDT
+Wolumeny: 1.77306 BTC na Huobi, 3.13694 BTC na Binance
+
+
+2023-11-11 17:08:52,162 - INFO: Potencjalna transakcja: Kupiono 0.09364 BTC na giełdzie Huobi po cenie 37118.07000 USDT 
+Sprzedano 0.09364 BTC na giełdzie Coinbase po cenie 37150.96000 USDT 
+Potencjalny zysk: 3.07976 USDT
+Wolumeny: 2.04216 BTC na Huobi, 0.09364 BTC na Coinbase
+
+
+2023-11-11 17:09:24,562 - INFO: Potencjalna transakcja: Kupiono 0.16500 BTC na giełdzie Binance po cenie 37122.68000 USDT 
+Sprzedano 0.16500 BTC na giełdzie Coinbase po cenie 37148.97000 USDT 
+Potencjalny zysk: 4.33785 USDT
+Wolumeny: 1.48835 BTC na Binance, 0.16500 BTC na Coinbase
+
+
+2023-11-11 17:09:56,205 - INFO: Potencjalna transakcja: Kupiono 0.52867 BTC na giełdzie Huobi po cenie 37123.50000 USDT 
+Sprzedano 0.52867 BTC na giełdzie Binance po cenie 37130.32000 USDT 
+Potencjalny zysk: 3.60553 USDT
+Wolumeny: 2.00442 BTC na Huobi, 0.52867 BTC na Binance
+
+
+2023-11-11 17:10:27,618 - INFO: Potencjalna transakcja: Kupiono 0.17807 BTC na giełdzie Huobi po cenie 37128.21000 USDT 
+Sprzedano 0.17807 BTC na giełdzie Binance po cenie 37135.24000 USDT 
+Potencjalny zysk: 1.25180 USDT
+Wolumeny: 0.17807 BTC na Huobi, 5.77487 BTC na Binance
+
+
+2023-11-11 17:10:54,293 - INFO: Potencjalna transakcja: Kupiono 0.12993 BTC na giełdzie Huobi po cenie 37129.45000 USDT 
+Sprzedano 0.12993 BTC na giełdzie Binance po cenie 37135.24000 USDT 
+Potencjalny zysk: 0.75228 USDT
+Wolumeny: 0.12993 BTC na Huobi, 4.97000 BTC na Binance
+
+
+2023-11-11 17:11:33,701 - INFO: Czas szukania arbitrażu 28.08882 sekund
+
+2023-11-11 17:11:33,703 - INFO: Potencjalna transakcja: Kupiono 1.63256 BTC na giełdzie Huobi po cenie 37124.90000 USDT 
+Sprzedano 1.63256 BTC na giełdzie Binance po cenie 37130.32000 USDT 
+Potencjalny zysk: 8.84848 USDT
+Wolumeny: 2.22338 BTC na Huobi, 1.63256 BTC na Binance
+
+
+2023-11-11 17:12:00,198 - INFO: Czas szukania arbitrażu 26.49377 sekund
+
+2023-11-11 17:12:00,199 - INFO: Potencjalna transakcja: Kupiono 1.17212 BTC na giełdzie Kraken po cenie 37122.50000 USDT 
+Sprzedano 1.17212 BTC na giełdzie Binance po cenie 37124.20000 USDT 
+Potencjalny zysk: 1.99260 USDT
+Wolumeny: 2.19500 BTC na Kraken, 1.17212 BTC na Binance
+
+
+2023-11-11 17:12:29,108 - INFO: Czas szukania arbitrażu 28.90652 sekund
+
+2023-11-11 17:12:29,109 - INFO: Potencjalna transakcja: Kupiono 1.27779 BTC na giełdzie Kraken po cenie 37122.50000 USDT 
+Sprzedano 1.27779 BTC na giełdzie Binance po cenie 37124.11000 USDT 
+Potencjalny zysk: 2.05724 USDT
+Wolumeny: 1.34700 BTC na Kraken, 1.27779 BTC na Binance
+
+
+2023-11-11 17:12:58,970 - INFO: Czas szukania arbitrażu 29.85917 sekund
+
+2023-11-11 17:12:58,972 - INFO: Potencjalna transakcja: Kupiono 0.67400 BTC na giełdzie Kraken po cenie 37121.70000 USDT 
+Sprzedano 0.67400 BTC na giełdzie Binance po cenie 37123.90000 USDT 
+Potencjalny zysk: 1.48280 USDT
+Wolumeny: 0.67400 BTC na Kraken, 1.60552 BTC na Binance
+
+
+2023-11-11 17:13:29,306 - INFO: Czas szukania arbitrażu 30.33203 sekund
+
+2023-11-11 17:13:29,307 - INFO: Potencjalna transakcja: Kupiono 0.23386 BTC na giełdzie Binance po cenie 37114.39000 USDT 
+Sprzedano 0.23386 BTC na giełdzie Coinbase po cenie 37141.65000 USDT 
+Potencjalny zysk: 6.37500 USDT
+Wolumeny: 0.23858 BTC na Binance, 0.23386 BTC na Coinbase
+
+
+2023-11-11 17:14:06,218 - INFO: Czas szukania arbitrażu 15.12898 sekund
+
+2023-11-11 17:14:06,220 - INFO: Potencjalna transakcja: Kupiono 0.11760 BTC na giełdzie Binance po cenie 37120.88000 USDT 
+Sprzedano 0.11760 BTC na giełdzie Coinbase po cenie 37152.79000 USDT 
+Potencjalny zysk: 3.75264 USDT
+Wolumeny: 4.71992 BTC na Binance, 0.11760 BTC na Coinbase
+
+
+2023-11-11 17:14:20,447 - INFO: Czas szukania arbitrażu 14.22472 sekund
+
+2023-11-11 17:14:20,448 - INFO: Potencjalna transakcja: Kupiono 0.10604 BTC na giełdzie Binance po cenie 37124.17000 USDT 
+Sprzedano 0.10604 BTC na giełdzie Coinbase po cenie 37153.22000 USDT 
+Potencjalny zysk: 3.08045 USDT
+Wolumeny: 5.06085 BTC na Binance, 0.10604 BTC na Coinbase
+
+
+2023-11-11 17:14:33,036 - INFO: Czas szukania arbitrażu 12.58590 sekund
+
+2023-11-11 17:14:33,037 - INFO: Potencjalna transakcja: Kupiono 0.12485 BTC na giełdzie Huobi po cenie 37122.65000 USDT 
+Sprzedano 0.12485 BTC na giełdzie Coinbase po cenie 37151.31000 USDT 
+Potencjalny zysk: 3.57816 USDT
+Wolumeny: 0.95052 BTC na Huobi, 0.12485 BTC na Coinbase
+
+
+2023-11-11 17:14:43,280 - INFO: Czas szukania arbitrażu 10.24128 sekund
+
+2023-11-11 17:14:43,281 - INFO: Potencjalna transakcja: Kupiono 0.14381 BTC na giełdzie Binance po cenie 37120.88000 USDT 
+Sprzedano 0.14381 BTC na giełdzie Coinbase po cenie 37147.51000 USDT 
+Potencjalny zysk: 3.82953 USDT
+Wolumeny: 7.66582 BTC na Binance, 0.14381 BTC na Coinbase
+
+
+2023-11-11 17:14:53,953 - INFO: Czas szukania arbitrażu 10.67017 sekund
+
+2023-11-11 17:14:53,954 - INFO: Potencjalna transakcja: Kupiono 1.07693 BTC na giełdzie Huobi po cenie 37118.63000 USDT 
+Sprzedano 1.07693 BTC na giełdzie Binance po cenie 37120.87000 USDT 
+Potencjalny zysk: 2.41232 USDT
+Wolumeny: 2.69622 BTC na Huobi, 1.07693 BTC na Binance
+
+
+2023-11-11 17:15:05,234 - INFO: Czas szukania arbitrażu 11.27798 sekund
+
+2023-11-11 17:15:05,234 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Huobi po cenie 37117.35000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37118.20000 USDT 
+Potencjalny zysk: 0.57205 USDT
+Wolumeny: 2.19562 BTC na Huobi, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:15:15,878 - INFO: Czas szukania arbitrażu 10.64216 sekund
+
+2023-11-11 17:15:15,879 - INFO: Potencjalna transakcja: Kupiono 0.04922 BTC na giełdzie Binance po cenie 37117.00000 USDT 
+Sprzedano 0.04922 BTC na giełdzie Coinbase po cenie 37144.57000 USDT 
+Potencjalny zysk: 1.35693 USDT
+Wolumeny: 1.97590 BTC na Binance, 0.04922 BTC na Coinbase
+
+
+2023-11-11 17:15:26,862 - INFO: Czas szukania arbitrażu 10.98065 sekund
+
+2023-11-11 17:15:26,863 - INFO: Potencjalna transakcja: Kupiono 0.07719 BTC na giełdzie Huobi po cenie 37117.35000 USDT 
+Sprzedano 0.07719 BTC na giełdzie Coinbase po cenie 37145.86000 USDT 
+Potencjalny zysk: 2.20062 USDT
+Wolumeny: 2.36378 BTC na Huobi, 0.07719 BTC na Coinbase
+
+
+2023-11-11 17:15:37,661 - INFO: Czas szukania arbitrażu 10.79567 sekund
+
+2023-11-11 17:15:37,661 - INFO: Potencjalna transakcja: Kupiono 0.02000 BTC na giełdzie Binance po cenie 37117.00000 USDT 
+Sprzedano 0.02000 BTC na giełdzie Coinbase po cenie 37143.89000 USDT 
+Potencjalny zysk: 0.53780 USDT
+Wolumeny: 1.66320 BTC na Binance, 0.02000 BTC na Coinbase
+
+
+2023-11-11 17:15:48,061 - INFO: Czas szukania arbitrażu 10.39891 sekund
+
+2023-11-11 17:15:48,063 - INFO: Potencjalna transakcja: Kupiono 0.05034 BTC na giełdzie Binance po cenie 37119.27000 USDT 
+Sprzedano 0.05034 BTC na giełdzie Coinbase po cenie 37150.95000 USDT 
+Potencjalny zysk: 1.59490 USDT
+Wolumeny: 1.35849 BTC na Binance, 0.05034 BTC na Coinbase
+
+
+2023-11-11 17:15:58,561 - INFO: Czas szukania arbitrażu 10.49454 sekund
+
+2023-11-11 17:15:58,562 - INFO: Potencjalna transakcja: Kupiono 1.07611 BTC na giełdzie Huobi po cenie 37118.54000 USDT 
+Sprzedano 1.07611 BTC na giełdzie Binance po cenie 37119.26000 USDT 
+Potencjalny zysk: 0.77480 USDT
+Wolumeny: 2.71964 BTC na Huobi, 1.07611 BTC na Binance
+
+
+2023-11-11 17:16:10,510 - INFO: Czas szukania arbitrażu 11.94746 sekund
+
+2023-11-11 17:16:10,511 - INFO: Potencjalna transakcja: Kupiono 0.04215 BTC na giełdzie Huobi po cenie 37118.54000 USDT 
+Sprzedano 0.04215 BTC na giełdzie Coinbase po cenie 37147.28000 USDT 
+Potencjalny zysk: 1.21147 USDT
+Wolumeny: 0.06699 BTC na Huobi, 0.04215 BTC na Coinbase
+
+
+2023-11-11 17:16:19,647 - INFO: Czas szukania arbitrażu 9.13419 sekund
+
+2023-11-11 17:16:19,648 - INFO: Potencjalna transakcja: Kupiono 0.04698 BTC na giełdzie Kraken po cenie 37121.30000 USDT 
+Sprzedano 0.04698 BTC na giełdzie Coinbase po cenie 37153.50000 USDT 
+Potencjalny zysk: 1.51287 USDT
+Wolumeny: 0.67400 BTC na Kraken, 0.04698 BTC na Coinbase
+
+
+2023-11-11 17:16:29,893 - INFO: Czas szukania arbitrażu 10.24433 sekund
+
+2023-11-11 17:16:29,895 - INFO: Potencjalna transakcja: Kupiono 0.40412 BTC na giełdzie Huobi po cenie 37124.85000 USDT 
+Sprzedano 0.40412 BTC na giełdzie Kraken po cenie 37131.10000 USDT 
+Potencjalny zysk: 2.52575 USDT
+Wolumeny: 0.40412 BTC na Huobi, 1.41900 BTC na Kraken
+
+
+2023-11-11 17:16:40,593 - INFO: Czas szukania arbitrażu 10.69675 sekund
+
+2023-11-11 17:16:40,595 - INFO: Potencjalna transakcja: Kupiono 0.43105 BTC na giełdzie Huobi po cenie 37129.45000 USDT 
+Sprzedano 0.43105 BTC na giełdzie Kraken po cenie 37132.30000 USDT 
+Potencjalny zysk: 1.22850 USDT
+Wolumeny: 0.43105 BTC na Huobi, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:16:52,181 - INFO: Czas szukania arbitrażu 11.58469 sekund
+
+2023-11-11 17:16:52,182 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Huobi po cenie 37120.37000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37125.50000 USDT 
+Potencjalny zysk: 3.45249 USDT
+Wolumeny: 1.29822 BTC na Huobi, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:17:03,865 - INFO: Czas szukania arbitrażu 11.67863 sekund
+
+2023-11-11 17:17:03,866 - INFO: Potencjalna transakcja: Kupiono 0.15083 BTC na giełdzie Huobi po cenie 37124.40000 USDT 
+Sprzedano 0.15083 BTC na giełdzie Coinbase po cenie 37151.27000 USDT 
+Potencjalny zysk: 4.05293 USDT
+Wolumeny: 1.04265 BTC na Huobi, 0.15083 BTC na Coinbase
+
+
+2023-11-11 17:17:13,684 - INFO: Czas szukania arbitrażu 9.81683 sekund
+
+2023-11-11 17:17:13,686 - INFO: Potencjalna transakcja: Kupiono 0.01917 BTC na giełdzie Huobi po cenie 37124.40000 USDT 
+Sprzedano 0.01917 BTC na giełdzie Coinbase po cenie 37151.06000 USDT 
+Potencjalny zysk: 0.51107 USDT
+Wolumeny: 1.89057 BTC na Huobi, 0.01917 BTC na Coinbase
+
+
+2023-11-11 17:17:25,227 - INFO: Czas szukania arbitrażu 11.53906 sekund
+
+2023-11-11 17:17:25,227 - INFO: Potencjalna transakcja: Kupiono 0.12883 BTC na giełdzie Huobi po cenie 37124.40000 USDT 
+Sprzedano 0.12883 BTC na giełdzie Coinbase po cenie 37151.48000 USDT 
+Potencjalny zysk: 3.48862 USDT
+Wolumeny: 2.25789 BTC na Huobi, 0.12883 BTC na Coinbase
+
+
+2023-11-11 17:17:36,794 - INFO: Czas szukania arbitrażu 11.56623 sekund
+
+2023-11-11 17:17:36,796 - INFO: Potencjalna transakcja: Kupiono 0.29400 BTC na giełdzie Huobi po cenie 37124.40000 USDT 
+Sprzedano 0.29400 BTC na giełdzie Coinbase po cenie 37152.68000 USDT 
+Potencjalny zysk: 8.31434 USDT
+Wolumeny: 0.78097 BTC na Huobi, 0.29400 BTC na Coinbase
+
+
+2023-11-11 17:17:47,349 - INFO: Czas szukania arbitrażu 10.54995 sekund
+
+2023-11-11 17:17:47,350 - INFO: Potencjalna transakcja: Kupiono 0.09859 BTC na giełdzie Binance po cenie 37126.43000 USDT 
+Sprzedano 0.09859 BTC na giełdzie Coinbase po cenie 37152.38000 USDT 
+Potencjalny zysk: 2.55842 USDT
+Wolumeny: 1.24181 BTC na Binance, 0.09859 BTC na Coinbase
+
+
+2023-11-11 17:17:58,443 - INFO: Czas szukania arbitrażu 11.09146 sekund
+
+2023-11-11 17:17:58,444 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Binance po cenie 37126.43000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37128.20000 USDT 
+Potencjalny zysk: 1.19121 USDT
+Wolumeny: 1.62885 BTC na Binance, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:18:10,809 - INFO: Czas szukania arbitrażu 12.36356 sekund
+
+2023-11-11 17:18:10,811 - INFO: Potencjalna transakcja: Kupiono 0.19684 BTC na giełdzie Binance po cenie 37131.10000 USDT 
+Sprzedano 0.19684 BTC na giełdzie Coinbase po cenie 37158.24000 USDT 
+Potencjalny zysk: 5.34219 USDT
+Wolumeny: 3.15813 BTC na Binance, 0.19684 BTC na Coinbase
+
+
+2023-11-11 17:18:23,948 - INFO: Czas szukania arbitrażu 13.13353 sekund
+
+2023-11-11 17:18:23,950 - INFO: Potencjalna transakcja: Kupiono 0.31793 BTC na giełdzie Kraken po cenie 37130.30000 USDT 
+Sprzedano 0.31793 BTC na giełdzie Coinbase po cenie 37157.74000 USDT 
+Potencjalny zysk: 8.72404 USDT
+Wolumeny: 0.67300 BTC na Kraken, 0.31793 BTC na Coinbase
+
+
+2023-11-11 17:18:34,342 - INFO: Czas szukania arbitrażu 10.38832 sekund
+
+2023-11-11 17:18:34,342 - INFO: Potencjalna transakcja: Kupiono 0.05478 BTC na giełdzie Binance po cenie 37131.10000 USDT 
+Sprzedano 0.05478 BTC na giełdzie Coinbase po cenie 37158.95000 USDT 
+Potencjalny zysk: 1.52550 USDT
+Wolumeny: 1.59161 BTC na Binance, 0.05478 BTC na Coinbase
+
+
+2023-11-11 17:18:45,216 - INFO: Czas szukania arbitrażu 10.87251 sekund
+
+2023-11-11 17:18:45,218 - INFO: Potencjalna transakcja: Kupiono 0.42769 BTC na giełdzie Huobi po cenie 37126.07000 USDT 
+Sprzedano 0.42769 BTC na giełdzie Binance po cenie 37131.09000 USDT 
+Potencjalny zysk: 2.14701 USDT
+Wolumeny: 0.42769 BTC na Huobi, 8.77360 BTC na Binance
+
+
+2023-11-11 17:18:54,689 - INFO: Czas szukania arbitrażu 9.46971 sekund
+
+2023-11-11 17:18:54,690 - INFO: Potencjalna transakcja: Kupiono 0.13226 BTC na giełdzie Binance po cenie 37133.96000 USDT 
+Sprzedano 0.13226 BTC na giełdzie Coinbase po cenie 37163.29000 USDT 
+Potencjalny zysk: 3.87908 USDT
+Wolumeny: 1.90766 BTC na Binance, 0.13226 BTC na Coinbase
+
+
+2023-11-11 17:19:05,075 - INFO: Czas szukania arbitrażu 10.38154 sekund
+
+2023-11-11 17:19:05,076 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Huobi po cenie 37126.14000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37128.40000 USDT 
+Potencjalny zysk: 1.52098 USDT
+Wolumeny: 2.43877 BTC na Huobi, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:19:16,279 - INFO: Czas szukania arbitrażu 11.20238 sekund
+
+2023-11-11 17:19:16,280 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Huobi po cenie 37126.14000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37128.40000 USDT 
+Potencjalny zysk: 1.52098 USDT
+Wolumeny: 2.43877 BTC na Huobi, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:19:26,599 - INFO: Czas szukania arbitrażu 10.31793 sekund
+
+2023-11-11 17:19:26,600 - INFO: Potencjalna transakcja: Kupiono 0.67300 BTC na giełdzie Huobi po cenie 37124.51000 USDT 
+Sprzedano 0.67300 BTC na giełdzie Kraken po cenie 37127.40000 USDT 
+Potencjalny zysk: 1.94497 USDT
+Wolumeny: 0.84936 BTC na Huobi, 0.67300 BTC na Kraken
+
+
+2023-11-11 17:19:37,462 - INFO: Czas szukania arbitrażu 10.86092 sekund
+
+2023-11-11 17:19:37,464 - INFO: Potencjalna transakcja: Kupiono 0.04866 BTC na giełdzie Huobi po cenie 37112.59000 USDT 
+Sprzedano 0.04866 BTC na giełdzie Coinbase po cenie 37146.68000 USDT 
+Potencjalny zysk: 1.65889 USDT
+Wolumeny: 0.34339 BTC na Huobi, 0.04866 BTC na Coinbase
+
+
+2023-11-11 17:19:48,623 - INFO: Czas szukania arbitrażu 11.15869 sekund
+
+2023-11-11 17:19:48,624 - INFO: Potencjalna transakcja: Kupiono 0.11275 BTC na giełdzie Huobi po cenie 37115.51000 USDT 
+Sprzedano 0.11275 BTC na giełdzie Coinbase po cenie 37146.27000 USDT 
+Potencjalny zysk: 3.46821 USDT
+Wolumeny: 2.60332 BTC na Huobi, 0.11275 BTC na Coinbase
+
+
+2023-11-11 17:19:59,269 - INFO: Czas szukania arbitrażu 10.64361 sekund
+
+2023-11-11 17:19:59,271 - INFO: Potencjalna transakcja: Kupiono 0.85130 BTC na giełdzie Huobi po cenie 37113.92000 USDT 
+Sprzedano 0.85130 BTC na giełdzie Binance po cenie 37116.35000 USDT 
+Potencjalny zysk: 2.06866 USDT
+Wolumeny: 1.35048 BTC na Huobi, 0.85130 BTC na Binance
+
+
+2023-11-11 17:20:13,019 - INFO: Czas szukania arbitrażu 13.74635 sekund
+
+2023-11-11 17:20:13,020 - INFO: Potencjalna transakcja: Kupiono 0.03865 BTC na giełdzie Huobi po cenie 37113.92000 USDT 
+Sprzedano 0.03865 BTC na giełdzie Coinbase po cenie 37144.01000 USDT 
+Potencjalny zysk: 1.16288 USDT
+Wolumeny: 0.39675 BTC na Huobi, 0.03865 BTC na Coinbase
+
+
+2023-11-11 17:20:23,015 - INFO: Czas szukania arbitrażu 9.99366 sekund
+
+2023-11-11 17:20:23,016 - INFO: Potencjalna transakcja: Kupiono 0.36130 BTC na giełdzie Kraken po cenie 37116.80000 USDT 
+Sprzedano 0.36130 BTC na giełdzie Coinbase po cenie 37145.85000 USDT 
+Potencjalny zysk: 10.49576 USDT
+Wolumeny: 0.67400 BTC na Kraken, 0.36130 BTC na Coinbase
+
+
+2023-11-11 17:20:32,661 - INFO: Czas szukania arbitrażu 9.64453 sekund
+
+2023-11-11 17:20:32,662 - INFO: Potencjalna transakcja: Kupiono 0.05304 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.05304 BTC na giełdzie Coinbase po cenie 37153.10000 USDT 
+Potencjalny zysk: 1.78754 USDT
+Wolumeny: 1.26916 BTC na Binance, 0.05304 BTC na Coinbase
+
+
+2023-11-11 17:20:43,039 - INFO: Czas szukania arbitrażu 10.37625 sekund
+
+2023-11-11 17:20:43,040 - INFO: Potencjalna transakcja: Kupiono 0.26918 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.26918 BTC na giełdzie Coinbase po cenie 37148.28000 USDT 
+Potencjalny zysk: 7.77402 USDT
+Wolumeny: 6.52952 BTC na Binance, 0.26918 BTC na Coinbase
+
+
+2023-11-11 17:20:52,494 - INFO: Czas szukania arbitrażu 9.45266 sekund
+
+2023-11-11 17:20:52,495 - INFO: Potencjalna transakcja: Kupiono 0.26833 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.26833 BTC na giełdzie Coinbase po cenie 37148.37000 USDT 
+Potencjalny zysk: 7.77352 USDT
+Wolumeny: 5.29672 BTC na Binance, 0.26833 BTC na Coinbase
+
+
+2023-11-11 17:21:02,266 - INFO: Czas szukania arbitrażu 9.76926 sekund
+
+2023-11-11 17:21:02,267 - INFO: Potencjalna transakcja: Kupiono 0.71770 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.71770 BTC na giełdzie Coinbase po cenie 37150.87000 USDT 
+Potencjalny zysk: 22.58613 USDT
+Wolumeny: 1.20731 BTC na Binance, 0.71770 BTC na Coinbase
+
+
+2023-11-11 17:21:13,286 - INFO: Czas szukania arbitrażu 11.01786 sekund
+
+2023-11-11 17:21:13,287 - INFO: Potencjalna transakcja: Kupiono 0.08282 BTC na giełdzie Huobi po cenie 37119.20000 USDT 
+Sprzedano 0.08282 BTC na giełdzie Coinbase po cenie 37152.44000 USDT 
+Potencjalny zysk: 2.75285 USDT
+Wolumeny: 0.16628 BTC na Huobi, 0.08282 BTC na Coinbase
+
+
+2023-11-11 17:21:24,189 - INFO: Czas szukania arbitrażu 10.90020 sekund
+
+2023-11-11 17:21:24,190 - INFO: Potencjalna transakcja: Kupiono 0.02000 BTC na giełdzie Kraken po cenie 37120.60000 USDT 
+Sprzedano 0.02000 BTC na giełdzie Coinbase po cenie 37149.17000 USDT 
+Potencjalny zysk: 0.57140 USDT
+Wolumeny: 0.07300 BTC na Kraken, 0.02000 BTC na Coinbase
+
+
+2023-11-11 17:21:34,349 - INFO: Czas szukania arbitrażu 10.15655 sekund
+
+2023-11-11 17:21:34,349 - INFO: Potencjalna transakcja: Kupiono 0.05103 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.05103 BTC na giełdzie Coinbase po cenie 37148.73000 USDT 
+Potencjalny zysk: 1.49670 USDT
+Wolumeny: 3.04173 BTC na Binance, 0.05103 BTC na Coinbase
+
+
+2023-11-11 17:21:43,640 - INFO: Czas szukania arbitrażu 9.28907 sekund
+
+2023-11-11 17:21:43,640 - INFO: Potencjalna transakcja: Kupiono 0.04573 BTC na giełdzie Huobi po cenie 37119.20000 USDT 
+Sprzedano 0.04573 BTC na giełdzie Coinbase po cenie 37148.88000 USDT 
+Potencjalny zysk: 1.35724 USDT
+Wolumeny: 2.57930 BTC na Huobi, 0.04573 BTC na Coinbase
+
+
+2023-11-11 17:21:54,877 - INFO: Czas szukania arbitrażu 11.23618 sekund
+
+2023-11-11 17:21:54,878 - INFO: Potencjalna transakcja: Kupiono 0.20387 BTC na giełdzie Huobi po cenie 37119.20000 USDT 
+Sprzedano 0.20387 BTC na giełdzie Coinbase po cenie 37151.38000 USDT 
+Potencjalny zysk: 6.56063 USDT
+Wolumeny: 1.02605 BTC na Huobi, 0.20387 BTC na Coinbase
+
+
+2023-11-11 17:22:06,940 - INFO: Czas szukania arbitrażu 12.06122 sekund
+
+2023-11-11 17:22:06,941 - INFO: Potencjalna transakcja: Kupiono 0.19635 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.19635 BTC na giełdzie Coinbase po cenie 37151.38000 USDT 
+Potencjalny zysk: 6.27935 USDT
+Wolumeny: 1.64132 BTC na Binance, 0.19635 BTC na Coinbase
+
+
+2023-11-11 17:22:17,836 - INFO: Czas szukania arbitrażu 10.89330 sekund
+
+2023-11-11 17:22:17,837 - INFO: Potencjalna transakcja: Kupiono 0.42600 BTC na giełdzie Huobi po cenie 37116.42000 USDT 
+Sprzedano 0.42600 BTC na giełdzie Kraken po cenie 37120.20000 USDT 
+Potencjalny zysk: 1.61028 USDT
+Wolumeny: 1.38544 BTC na Huobi, 0.42600 BTC na Kraken
+
+
+2023-11-11 17:22:28,145 - INFO: Czas szukania arbitrażu 10.30738 sekund
+
+2023-11-11 17:22:28,146 - INFO: Potencjalna transakcja: Kupiono 0.05350 BTC na giełdzie Huobi po cenie 37116.42000 USDT 
+Sprzedano 0.05350 BTC na giełdzie Coinbase po cenie 37146.03000 USDT 
+Potencjalny zysk: 1.58408 USDT
+Wolumeny: 0.38108 BTC na Huobi, 0.05350 BTC na Coinbase
+
+
+2023-11-11 17:22:37,171 - INFO: Czas szukania arbitrażu 9.02425 sekund
+
+2023-11-11 17:22:37,172 - INFO: Potencjalna transakcja: Kupiono 0.10230 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.10230 BTC na giełdzie Coinbase po cenie 37146.41000 USDT 
+Potencjalny zysk: 2.76300 USDT
+Wolumeny: 4.85757 BTC na Binance, 0.10230 BTC na Coinbase
+
+
+2023-11-11 17:22:48,085 - INFO: Czas szukania arbitrażu 10.91229 sekund
+
+2023-11-11 17:22:48,086 - INFO: Potencjalna transakcja: Kupiono 0.05116 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.05116 BTC na giełdzie Coinbase po cenie 37151.26000 USDT 
+Potencjalny zysk: 1.63010 USDT
+Wolumeny: 0.86730 BTC na Binance, 0.05116 BTC na Coinbase
+
+
+2023-11-11 17:22:58,558 - INFO: Czas szukania arbitrażu 10.47214 sekund
+
+2023-11-11 17:22:58,559 - INFO: Potencjalna transakcja: Kupiono 0.40300 BTC na giełdzie Huobi po cenie 37118.72000 USDT 
+Sprzedano 0.40300 BTC na giełdzie Kraken po cenie 37121.40000 USDT 
+Potencjalny zysk: 1.08004 USDT
+Wolumeny: 0.40383 BTC na Huobi, 0.40300 BTC na Kraken
+
+
+2023-11-11 17:23:09,873 - INFO: Czas szukania arbitrażu 11.31376 sekund
+
+2023-11-11 17:23:09,874 - INFO: Potencjalna transakcja: Kupiono 0.04492 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.04492 BTC na giełdzie Coinbase po cenie 37150.31000 USDT 
+Potencjalny zysk: 1.38842 USDT
+Wolumeny: 1.78962 BTC na Binance, 0.04492 BTC na Coinbase
+
+
+2023-11-11 17:23:21,267 - INFO: Czas szukania arbitrażu 11.39281 sekund
+
+2023-11-11 17:23:21,268 - INFO: Potencjalna transakcja: Kupiono 0.07186 BTC na giełdzie Binance po cenie 37119.40000 USDT 
+Sprzedano 0.07186 BTC na giełdzie Coinbase po cenie 37150.29000 USDT 
+Potencjalny zysk: 2.21982 USDT
+Wolumeny: 0.98681 BTC na Binance, 0.07186 BTC na Coinbase
+
+
+2023-11-11 17:23:30,629 - INFO: Czas szukania arbitrażu 9.36066 sekund
+
+2023-11-11 17:23:30,630 - INFO: Potencjalna transakcja: Kupiono 1.45178 BTC na giełdzie Huobi po cenie 37118.30000 USDT 
+Sprzedano 1.45178 BTC na giełdzie Binance po cenie 37119.39000 USDT 
+Potencjalny zysk: 1.58244 USDT
+Wolumeny: 1.45178 BTC na Huobi, 3.16340 BTC na Binance
+
+
+2023-11-11 17:23:42,576 - INFO: Czas szukania arbitrażu 11.94577 sekund
+
+2023-11-11 17:23:42,578 - INFO: Potencjalna transakcja: Kupiono 0.54788 BTC na giełdzie Huobi po cenie 37116.42000 USDT 
+Sprzedano 0.54788 BTC na giełdzie Binance po cenie 37119.39000 USDT 
+Potencjalny zysk: 1.62720 USDT
+Wolumeny: 1.94889 BTC na Huobi, 0.54788 BTC na Binance
+
+
+2023-11-11 17:23:52,342 - INFO: Czas szukania arbitrażu 9.76316 sekund
+
+2023-11-11 17:23:52,342 - INFO: Potencjalna transakcja: Kupiono 0.40468 BTC na giełdzie Huobi po cenie 37116.42000 USDT 
+Sprzedano 0.40468 BTC na giełdzie Binance po cenie 37119.39000 USDT 
+Potencjalny zysk: 1.20190 USDT
+Wolumeny: 1.94889 BTC na Huobi, 0.40468 BTC na Binance
+
+
+2023-11-11 17:24:02,006 - INFO: Czas szukania arbitrażu 9.66209 sekund
+
+2023-11-11 17:24:02,007 - INFO: Potencjalna transakcja: Kupiono 0.04381 BTC na giełdzie Huobi po cenie 37116.42000 USDT 
+Sprzedano 0.04381 BTC na giełdzie Coinbase po cenie 37145.12000 USDT 
+Potencjalny zysk: 1.25734 USDT
+Wolumeny: 1.94889 BTC na Huobi, 0.04381 BTC na Coinbase
+
+
+2023-11-11 17:24:16,221 - INFO: Czas szukania arbitrażu 14.21388 sekund
+
+2023-11-11 17:24:16,222 - INFO: Potencjalna transakcja: Kupiono 0.67400 BTC na giełdzie Huobi po cenie 37116.42000 USDT 
+Sprzedano 0.67400 BTC na giełdzie Kraken po cenie 37118.90000 USDT 
+Potencjalny zysk: 1.67152 USDT
+Wolumeny: 1.94789 BTC na Huobi, 0.67400 BTC na Kraken
+
+
+2023-11-11 17:24:26,159 - INFO: Czas szukania arbitrażu 9.93617 sekund
+
+2023-11-11 17:24:26,160 - INFO: Potencjalna transakcja: Kupiono 0.36900 BTC na giełdzie Binance po cenie 37116.03000 USDT 
+Sprzedano 0.36900 BTC na giełdzie Kraken po cenie 37119.20000 USDT 
+Potencjalny zysk: 1.16973 USDT
+Wolumeny: 8.45515 BTC na Binance, 0.36900 BTC na Kraken
+
+
+2023-11-11 17:24:37,117 - INFO: Czas szukania arbitrażu 10.95619 sekund
+
+2023-11-11 17:24:37,118 - INFO: Potencjalna transakcja: Kupiono 0.16555 BTC na giełdzie Kraken po cenie 37116.40000 USDT 
+Sprzedano 0.16555 BTC na giełdzie Coinbase po cenie 37144.73000 USDT 
+Potencjalny zysk: 4.69015 USDT
+Wolumeny: 0.67400 BTC na Kraken, 0.16555 BTC na Coinbase
+
+
+2023-11-11 17:24:48,804 - INFO: Czas szukania arbitrażu 11.68505 sekund
+
+2023-11-11 17:24:48,804 - INFO: Potencjalna transakcja: Kupiono 0.04814 BTC na giełdzie Binance po cenie 37116.03000 USDT 
+Sprzedano 0.04814 BTC na giełdzie Coinbase po cenie 37144.73000 USDT 
+Potencjalny zysk: 1.38157 USDT
+Wolumeny: 9.21330 BTC na Binance, 0.04814 BTC na Coinbase
+
+
+2023-11-11 17:24:57,982 - INFO: Czas szukania arbitrażu 9.17679 sekund
+
+2023-11-11 17:24:57,982 - INFO: Potencjalna transakcja: Kupiono 0.31948 BTC na giełdzie Binance po cenie 37111.74000 USDT 
+Sprzedano 0.31948 BTC na giełdzie Coinbase po cenie 37137.02000 USDT 
+Potencjalny zysk: 8.07651 USDT
+Wolumeny: 11.65201 BTC na Binance, 0.31948 BTC na Coinbase
+
+
