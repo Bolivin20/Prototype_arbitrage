@@ -16,7 +16,7 @@ if __name__ == '__main__':
     #kucoin = KucoinExchange()
     upbit = UpbitExchange()
 
-    exchanges = [binance, huobi, kraken, coinbase]
+    exchanges = [binance, huobi, kraken, coinbase, upbit]
 
     bot = ArbitrageBot(exchanges)
 

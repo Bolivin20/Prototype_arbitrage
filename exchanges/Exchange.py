@@ -4,6 +4,7 @@ class Exchange:
     def __init__(self, name, api_url):
         self.name = name
         self.api_url = api_url
+        
 
     def get_data(self):
         response = requests.get(self.api_url)
