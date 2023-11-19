@@ -2,7 +2,7 @@ from exchanges.Exchange import Exchange
 
 class CoinbaseExchange(Exchange):
     def __init__(self):
-        super().__init__('Coinbase', "https://api.pro.coinbase.com/products/BTC-USD/book?level=2")
+        super().__init__('Coinbase', "https://api.pro.coinbase.com/products/BTC-USDT/book?level=2")
 
     def extract_bid_ask_prices(self, data):
         bids = data['bids']

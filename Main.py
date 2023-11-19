@@ -6,6 +6,8 @@ from exchanges.KrakenExchange import KrakenExchange
 from exchanges.CoinbaseExchange import CoinbaseExchange
 from exchanges.KucoinExchange import KucoinExchange
 from exchanges.UpbitExchange import UpbitExchange
+import threading
+import time
 
 if __name__ == '__main__':
     binance = BinanceExchange()
@@ -13,13 +15,23 @@ if __name__ == '__main__':
     #mexc = MexcExchange()
     kraken = KrakenExchange()
     coinbase = CoinbaseExchange()
-    #kucoin = KucoinExchange()
+    kucoin = KucoinExchange()
     upbit = UpbitExchange()
 
-    exchanges = [binance, huobi, kraken, coinbase, upbit]
+    exchanges = [binance, huobi, kraken, coinbase, upbit, kucoin]
 
-    bot = ArbitrageBot(exchanges)
+    def run_bot_with_symbol(symbol):
+        log_filename = f"results/{symbol}_log.txt"
+        bot = ArbitrageBot(exchanges, log_filename)
 
-    while True:
-        bot.execute_best_arbitrage()
-        #time.sleep(8)
+        while True:
+            bot.execute_best_arbitrage(symbol)
+    
+    thread1 = threading.Thread(target=run_bot_with_symbol, args=('BTC',))
+    thread2 = threading.Thread(target=run_bot_with_symbol, args=('ETH',))
+
+    thread1.start()
+    thread2.start()
+
+    thread1.join()
+    thread2.join()

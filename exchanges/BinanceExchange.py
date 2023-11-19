@@ -9,4 +9,4 @@ class BinanceExchange(Exchange):
     
     def extract_bid_ask_quantities(self, data):
         return float(data['bidQty']), float(data['askQty'])
-        
+    
