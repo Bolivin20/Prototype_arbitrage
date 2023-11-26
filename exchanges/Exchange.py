@@ -47,7 +47,13 @@ class Exchange:
             data = self.get_data(symbol)
             
             if data:
-                return self.extract_bid_ask_prices(data)
+                #return self.extract_bid_ask_prices(data)
+                if self.extract_bid_ask_prices(data) != None:
+                    return self.extract_bid_ask_prices(data)
+                else:
+                    print(f"Zły format danych.")
+                    time.sleep(delay)
+                    delay += 10
             else:
                 attempts += 1
                 print(f"Nie udało się pobrać danych. Ponawiam próbę.")
@@ -71,7 +77,13 @@ class Exchange:
             data = self.get_data(symbol)
             
             if data:
-                return self.extract_bid_ask_quantities(data)
+                #return self.extract_bid_ask_quantities(data)
+                if self.extract_bid_ask_quantities(data) != None:
+                    return self.extract_bid_ask_quantities(data)
+                else:
+                    print(f"Zły format danych.")
+                    time.sleep(delay)
+                    delay += 10
             else:
                 attempts += 1
                 print(f"Nie udało się pobrać danych. Ponawiam próbę.")

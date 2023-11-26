@@ -11,7 +11,7 @@ class HuobiExchange(Exchange):
             return bid_price, ask_price
         except KeyError as e:
             print(f"Wystąpił KeyError: {e}. Brak klucza 'tick' lub jego podkluczy w danych.")
-            return -1, -1
+            return None, None
     
     def extract_bid_ask_quantities(self, data):
         try:
@@ -20,4 +20,4 @@ class HuobiExchange(Exchange):
             return bid_qty, ask_qty
         except KeyError as e:
             print(f"Wystąpił KeyError: {e}. Brak klucza 'tick' lub jego podkluczy w danych.")
-            return -1, -1
+            return None, None

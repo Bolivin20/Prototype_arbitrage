@@ -16,16 +16,16 @@ data['Timestamp'] = pd.to_datetime(data['Timestamp'], format='%Y-%m-%d %H:%M:%S'
 
 # Utwórz wykres
 plt.figure(figsize=(10, 6))
-plt.plot(data['Timestamp'], data['Profit'], 'o', label=f'{args.symbol} Arbitrage Profit')
+plt.plot(data['Timestamp'], data['Profit [%]'], 'o', label=f'{args.symbol} Arbitrage Profit')
 
 # Dodaj etykiety i tytuły
 plt.xlabel('Time')
-plt.ylabel('Profit [USDT]')
+plt.ylabel('Profit [%]')
 plt.title(f'Arbitrage Profit for {args.symbol}')
 plt.legend()
 
 # Zapisz wykres do pliku
-output_filename = f'charts/{args.symbol}_chart.png'
+output_filename = f'charts/{args.symbol}_chart_percentage.png'
 plt.savefig(output_filename)
 
 # Pokaż wykres
