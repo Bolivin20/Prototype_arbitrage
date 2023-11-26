@@ -73,5 +73,7 @@ class ArbitrageBot:
            
             current_time = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
             data_file = f'results/{symbol}_chart_data.csv'
-            open(data_file, 'a').write(f'{current_time},{source_exchange.name},{target_exchange.name},{possible_buy},{profit}\n')
+            #percentage_profit = profit * 100 / (source_ask_price * possible_buy)
+            percentage_profit = 100 - ((source_ask_price / target_bid_price) * 100) 
+            open(data_file, 'a').write(f'{current_time},{source_exchange.name},{target_exchange.name},{possible_buy},{profit}, {percentage_profit}\n')
             

@@ -12,6 +12,9 @@ class KrakenExchange(Exchange):
         elif "ETHUSDT" in data['result']:
             bids = data['result']['ETHUSDT']['bids']
             asks = data['result']['ETHUSDT']['asks']
+        elif "XDGUSDT" in data['result']:
+            bids = data['result']['XDGUSDT']['bids']
+            asks = data['result']['XDGUSDT']['asks']
         
 
         bid_price = float(bids[0][0])
@@ -27,6 +30,9 @@ class KrakenExchange(Exchange):
         elif "ETHUSDT" in data['result']:
             bids = data['result']['ETHUSDT']['bids']
             asks = data['result']['ETHUSDT']['asks']
+        elif "XDGUSDT" in data['result']:
+            bids = data['result']['XDGUSDT']['bids']
+            asks = data['result']['XDGUSDT']['asks']
 
         bid_qty = float(bids[0][1])
         ask_qty = float(asks[0][1])

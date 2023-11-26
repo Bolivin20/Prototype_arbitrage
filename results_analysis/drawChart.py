@@ -9,7 +9,7 @@ args = parser.parse_args()
 
 # Wczytaj dane z pliku CSV
 filename = f'results/{args.symbol}_chart_data.csv'
-data = pd.read_csv(filename, header=None, names=['Timestamp', 'Exchange1', 'Exchange2', 'Value', 'Profit'])
+data = pd.read_csv(filename, header=None, names=['Timestamp', 'Exchange1', 'Exchange2', 'Value', 'Profit', 'Profit [%]'])
 
 # Przekształć kolumnę Timestamp na obiekt datetime
 data['Timestamp'] = pd.to_datetime(data['Timestamp'], format='%Y-%m-%d %H:%M:%S')

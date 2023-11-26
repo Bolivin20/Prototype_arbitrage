@@ -29,9 +29,12 @@ if __name__ == '__main__':
     
     thread1 = threading.Thread(target=run_bot_with_symbol, args=('BTC',))
     thread2 = threading.Thread(target=run_bot_with_symbol, args=('ETH',))
+    thread3 = threading.Thread(target=run_bot_with_symbol, args=('DOGE',))
 
     thread1.start()
     thread2.start()
+    thread3.start()
 
     thread1.join()
     thread2.join()
+    thread3.join()
